@@ -11,4 +11,4 @@ On running the program, we can see that the output being predicted is the number
 
 The picture of the input of the corresponding input:
 
-![Screenshot](Input_Display.PNG)
+![Screenshot](Input_Display.png)
