@@ -9,6 +9,6 @@ An accuracy of 97% was obtained.
 
 On running the program, we can see that the output being predicted is the number 7.
 
-The picture of the input of the corresponding input:
+The picture of the corresponding input:
 
 ![Screenshot](Input_Display.png)
