@@ -21,7 +21,7 @@ model.compile(optimizer = 'adam',
 #fit the model with the training data
 model.fit(x_train, y_train, epochs = 3)
 
-#Evaluate print the validation loss and accuracy on the test data - to make sure that the model doesn't overfit
+#Evaluate and print the validation loss and accuracy on the test data - to make sure that the model doesn't overfit
 val_loss, val_acc = model.evaluate(x_test, y_test)
 print(val_loss)
 print(val_acc)
