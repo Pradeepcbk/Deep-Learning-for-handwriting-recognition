@@ -30,3 +30,7 @@ print(val_acc)
 #predict the first test data
 predictions = model.predict(x_test)
 print(np.argmax(predictions[0]))
+
+#check what was the input
+plt.imshow(x_test[0],cmap = plt.cm.binary)
+plt.show()
